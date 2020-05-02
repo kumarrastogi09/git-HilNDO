@@ -1,2 +1,2 @@
 # git-HilNDO
-For Capturing Night Duty Observation by users
+For Capturing Night Duty Observation through Mobile App 
